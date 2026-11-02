@@ -11,3 +11,4 @@ Le serveur utilise l’adresse http://localhost:8080.
 Démarrer l’application Angular Ouvrir un autre terminal dans le dossier client : cd client npm install npx ng serve
 Ouvrir l’application Dans le navigateur, entrer : http://localhost:4200/
 Cliquer sur Authors dans le menu entrer un ID d’auteur et cliquer sur Search pour voir les informations.
+## Read 
